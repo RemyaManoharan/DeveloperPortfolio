@@ -17,7 +17,7 @@ export const projectsData = [
         id: 1,
         projectName: 'Job Search App',
         projectDesc: 'A full stack project that enable users to view jobs, companies, apply for job.Admin has the functionality to approve/reject companies and job. Admin can view all the jobs , total open jobs,users etc. User authentication using firebase.',
-        tags: ['Typescript', 'Material_ui' ,'PostgreSQL', 'NodeJs'],
+        tags: ['Typescript', 'React', 'Material_ui' ,'PostgreSQL', 'NodeJs','Zustand'],
         code: 'https://github.com/RemyaManoharan/class-25-ironside',
         demo: 'https://ironside-webservice.onrender.com/',
         image: adminpage
@@ -26,7 +26,7 @@ export const projectsData = [
         id: 2,
         projectName: 'Amazon Clone',
         projectDesc: 'This is a clone of an amazon. Tried to implement home page , product page and checkout page. State managent using Redux',
-        tags: ['React', 'tailwind CSS','Javascript'],
+        tags: ['React', 'tailwind CSS','Javascript','redux'],
         code: 'https://github.com/RemyaManoharan/amazon_clone',
         demo: '',
         image: home
@@ -34,7 +34,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Meal Share App',
-        projectDesc: 'Another full stack project for  viewing meals , making reservation, add reviews.',
+        projectDesc: 'Another full stack project for  viewing meals , making reservation, add reviews. Designed the database, writes routes for backend and created reusable components',
         tags: ['React', 'Javascript', 'Express', "PostgreSQL","NodeJS"],
         code: 'https://github.com/RemyaManoharan/meal_app',
         demo: 'https://meal-sharing-sywi.onrender.com/',
@@ -43,7 +43,7 @@ export const projectsData = [
     {
         id: 4,
         projectName: 'Todo App',
-        projectDesc: 'This is the clone of reliancedigital.in. Features I worked on the Product Catalogue pages and also on some minor parts on other pages as well',
+        projectDesc: 'Simple React app for adding todo, set deadlines with option to edit, delete. done as part of hobby project',
         tags: ['React', 'Javascript'],
         code: 'https://github.com/RemyaManoharan/Todo_App',
         demo: 'https://meal-sharing-sywi.onrender.com/',
