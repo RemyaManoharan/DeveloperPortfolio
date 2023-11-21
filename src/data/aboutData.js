@@ -1,0 +1,5 @@
+export const aboutData = {
+    title: "Who I am",
+    description1: "Hello! My name is Remya Manoharan. I'm an aspiring Full Stack Developer.",
+    description2: "Motivated software development professional with strong foundation in building web applications using JavaScript, TypeScript, React, and NodeJS. Committed to continuous improvement through hands-on learning, I bring a well-organized and collaborative approach to teamwork, coupled with effective communication and analytical skills. Proficient in Agile Scrum Methodology, I have a solid background in finance management. My recent experience includes completing an 8-month Full-Stack Development Bootcamp at Hack Your Future in Denmark, where I played a key role in developing a Job Search App and a Meal Share App. With a bachelor's degree in Computer Science, an MBA in Banking and Finance, and hands-on experience in various projects, I am poised to contribute effectively to dynamic development teams."
+}
