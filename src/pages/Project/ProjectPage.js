@@ -20,6 +20,7 @@ function ProjectPage() {
         const content = project.projectName + project.projectDesc + project.tags
         return content.toLowerCase().includes(search.toLowerCase())
     })
+    console.log(filteredArticles);
 
     const useStyles = makeStyles((t) => ({
         search : {

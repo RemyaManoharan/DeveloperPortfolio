@@ -46,7 +46,7 @@ export const projectsData = [
         projectDesc: 'Simple React app for adding todo, set deadlines with option to edit, delete. done as part of hobby project',
         tags: ['React', 'Javascript'],
         code: 'https://github.com/RemyaManoharan/Todo_App',
-        demo: 'https://meal-sharing-sywi.onrender.com/',
+        demo: '',
         image: todo
     },
     // {
